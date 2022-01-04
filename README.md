@@ -11,4 +11,6 @@
 
 ## Description
 
-_A simple drum kit created for personal practice, through Wes Bos's [JavaScript30](https://javascript30.com/) program_
+_A simple drum kit created for personal practice, through Wes Bos's [JavaScript30](https://javascript30.com/) program_  
+
+_Background image via @freestocks on Unsplash_
